@@ -4,7 +4,6 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import java.util.Optional;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
@@ -18,7 +17,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.roulette.api.dto.BetDTO;
 import com.roulette.api.dto.RouletteDTO;
-import com.roulette.api.dto.WinnerDTO;
 import com.roulette.api.entity.Roulette;
 import com.roulette.api.service.RouletteService;
 

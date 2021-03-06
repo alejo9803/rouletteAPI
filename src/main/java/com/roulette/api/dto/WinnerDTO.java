@@ -1,8 +1,5 @@
 package com.roulette.api.dto;
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class WinnerDTO {
 
 	private Long totalValue;
